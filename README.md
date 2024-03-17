@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pilarpr
 - 👀 I am interested in cybersecurity, but only for almost 2 years, when, due to my work, I had to catch up on cybersecurity incident management.
-- 🌱 I’m currently learning how to use Git.
+- 🌱 I am currently learning everything I can get my hands on about cybersecurity.
 - 💞️ Currently I’m collaborating on to write books about cybersecurity for students
 - 📫 You can reach me here.
